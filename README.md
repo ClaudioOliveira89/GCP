@@ -1,6 +1,7 @@
 ### This repository documents my journey through Google Cloud Platform (GCP), including automation, infrastructure management, and container-based deployment strategies.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="12" style="vertical-align:middle" /> Google Cloud Platform
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="20" style="vertical-align:middle" /> Google Cloud Platform
+
 
 ---
 
